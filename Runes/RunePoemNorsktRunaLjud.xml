@@ -1,0 +1,37 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<runpoemcollection>
+	<poemcollection id="pc3">
+		<fornname>Norskt rúnaljóð</fornname>
+		<sourceuri>"https://asatru.is/norskt-runaljod"</sourceuri>
+		<language>Norrön</language>
+		<date> frá 12. öl</date>
+		<translation id="pc3t1" >
+			<name>Norrön avskrift?</name>
+			<language>Norrönt/Isländska?</language>
+			<author>Matthíasar Viðars Sæmundssonar, Göldum á Íslandi</author>
+			<comment>Norska rúnakvæðið.  Útgáfa þessi er sú sem finna má í riti Matthíasar Viðars Sæmundssonar, Göldum á Íslandi (1992).</comment>
+			<date>1992</date>
+			<sourceuri>https://asatru.is/norskt-runaljod</sourceuri>
+				<poems>
+					<runepoem rune="ᚠ" poem="Fé veldur frænda rógi; fæðist úlfur í skógi." pcid="pc3" trid="pc3t1" />
+					<runepoem rune="ᚢ" poem="Úr er af illu járni; oft (h)leypur hreinn á hjarni." pcid="pc3" trid="pc3t1" />
+					<runepoem rune="ᚦ" poem="Þurs veldur kvenna kvillu; kátur verður fár af illu." pcid="pc3" trid="pc3t1" />
+					<runepoem rune="ᚬ" poem="Óss er flestra ferða för; en skalpur er sverða" pcid="pc3" trid="pc3t1" />
+					<runepoem rune="ᚱ" poem="Reið kveða (h)rossum ve(r)sta; Reginn sló sverðið besta." pcid="pc3" trid="pc3t1" />
+					<runepoem rune="ᚲ" poem="Kaun er barna bölvan; böl gerir ná fölvan." pcid="pc3" trid="pc3t1" />
+
+					<runepoem rune="ᚺ" poem="Hagall er kaldastur korna; Kristur skóp heiminn forna." pcid="pc3" trid="pc3t1" />
+					<runepoem rune="ᚾ" poem="Nauð gerir (k)nappa kosti; naktan kelur í frosti." pcid="pc3" trid="pc3t1" />
+					<runepoem rune="ᛁ" poem="Ís köllum brú breiða: blindan þarf að leiða." pcid="pc3" trid="pc3t1" />
+					<runepoem rune="ᛃ" poem="Ár er gumna góði; get eg að örr var Fróði." pcid="pc3" trid="pc3t1" />
+					<runepoem rune="ᛋ" poem="Sól er landa ljómi; lúti eg helgum dómi." pcid="pc3" trid="pc3t1" />
+
+					<runepoem rune="ᛏ" poem="Týr er ein(h)endur ása; oft verður smiður að blása." pcid="pc3" trid="pc3t1" />
+					<runepoem rune="ᛒ" poem="Bjarkan er laufgrænstur lima; Loki bar flærða tíma." pcid="pc3" trid="pc3t1" />
+					<runepoem rune="ᛉ" poem="Maður er moldar auki; mikil er greip á hauki." pcid="pc3" trid="pc3t1" />
+					<runepoem rune="ᛚ" poem="Lögur er, er fellur úr fjalli, foss; en gull eru (h)nossir." pcid="pc3" trid="pc3t1" />
+					<runepoem rune="ᛦ" poem="Ýr er veturgrænstur viða; vant er, er brennur, að svíða" pcid="pc3" trid="pc3t1" />
+				</poems>
+		</translation>
+	</poemcollection>
+</runpoemcollection>

@@ -1,0 +1,29 @@
+/*
+// ==============================================
+// Copyright Arne Höder, Midgårdskultur AB, 2021.
+// Copyright Asteríx Lindmark, 2021
+// Released under "Frejs Fria Licens 2019".
+// ==============================================
+*/
+@font-face {
+    font-family: Norse;
+    src: url(../FreeMaterialFromOthers/Fonts/joelcarrouche/norse/Norse.otf), format(opentype);
+}
+
+@font-face {
+    font-family: Norse;
+    src: url(../FreeMaterialFromOthers/Fonts/joelcarrouche/norse/Norsebold.otf), format(opentype);
+    font-weight: bold;
+}
+/* JOEL CARROUCHE - FREE FONT LICENSE - www.joelcarrouche.com, www.joelcarrouche.com/fonts/norse */
+
+/* Mac: "Junicode" */
+/* Windos: "Aboriginal Serif, "ALPHABETUM" */
+/* Unix: "Caslon,"Clearly" */
+.rune-font {
+    font-family: "Norse", "Candara,"Aboriginal Serif, "ALPHABETUM","Junicode","Caslon,"Clearly"
+}
+
+.breadtext-font {
+    font-family: "Liberation Sans";
+}

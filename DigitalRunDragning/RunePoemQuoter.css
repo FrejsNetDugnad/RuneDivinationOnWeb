@@ -1,0 +1,36 @@
+/*
+// ==============================================
+// Copyright Arne Höder, Midgårdskultur AB, 2021.
+// Copyright Asteríx Lindmark, 2021
+// Released under "Frejs Fria Licens 2019".
+// ==============================================
+*/
+.runepoemquoter-rune {
+    font-size: 12vw;
+}
+
+/* Tooltip container */
+.runepoemquoter-svava.trigger {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.runepoemquoter-svava-trigger .runepoemquoter-svava-text {
+    visibility: hidden;
+    width: 320px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+}
+
+/* Tooltip text */
+.runepoemquoter-svava-trigger:hover .runepoemquoter-svava-text {
+        visibility: visible;
+}

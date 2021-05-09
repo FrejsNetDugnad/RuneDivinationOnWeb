@@ -1,0 +1,120 @@
+/*
+// ==============================================
+// Copyright Arne Höder, Midgårdskultur AB, 2021.
+// Copyright Asteríx Lindmark, 2021
+// Released under "Frejs Fria Licens 2019".
+// ==============================================
+*/
+
+.rune-theme {
+    color: #fff !important;
+    background-color: #566573 !important;
+}
+
+.rune-shadow {
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)
+}
+
+
+.rune-align-center {
+    text-align: center;
+}
+
+.rune-white {
+    color: #F2F4F4 !important;
+}
+
+.rune-info-left {
+    text-align: left;
+}
+
+.rune-info-right {
+    float: right;
+}
+
+
+.rune-button {
+    border: none;
+    display: inline-block;
+    padding: 10px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: normal;
+    font-weight: bolder
+}
+
+.rune-pulled {
+    font-size: 24vw;
+}
+
+.rune-pulled {
+    font-size: 24vw;
+}
+
+.rune-button:hover {
+    color: #fff !important;
+    background-color: #145A32 !important
+}
+
+.rune-grey, .rune-dark-grey:hover, .rune-gray, .rune-dark-gray:hover {
+    color: #fff !important;
+    background-color: #1D8348 !important
+}
+
+.rune-theme {
+    color: #fff !important;
+    background-color: #566573 !important;
+}
+
+.rune-shadow {
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)
+}
+
+.rune-container {
+    padding: 0.01em 16px;
+}
+
+.rune-container-footer {
+    position: relative;
+    bottom: 13px;
+}
+
+.rune-font {
+    font-family: "Norse", "Candara"
+}
+
+.rune-pulled {
+    font-size: 24vw;
+}
+
+.rune-button {
+    border: none;
+    display: inline-block;
+    padding: 10px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: normal;
+    font-weight: bolder
+}
+
+    .rune-button:hover {
+        color: #fff !important;
+        background-color: #145A32 !important
+    }
+
+.rune-grey, .rune-dark-grey:hover, .rune-gray, .rune-dark-gray:hover {
+    color: #fff !important;
+    background-color: #1D8348 !important
+}
+
+-rune-poem-collectio {
+    text-align: left;
+}

@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<runpoemcollection>
+	<poemcollection id="pc2">
+		<fornname>Isländskt runkvæðe från 1500-talet</fornname>
+		<sourceuri></sourceuri>
+		<language>Norrön</language>
+		<date>1500-talet</date>
+		<translation id="pc2t1">
+			<name>Bokudrag</name>
+			<language>Norrön</language>
+			<author>Unknown</author>
+			<comment>From Vikingarnas Språk, 2010, s 101</comment>
+			<date>1500-talet</date>
+			<sourceuri>https://asatru.is/fornt-runakvaedi</sourceuri>
+				<poems>
+					<runepoem rune="ᚠ" poem="ᚠ (fé) er frǽnda róg ok fyrða gamman ok grafseiðs gata" pcid="pc2" trid="pc2t1" />
+					<runepoem rune="ᚢ" poem="ᚢ (úr) er skýja gráter ok skára þverir ok hirðis hatr." pcid="pc2" trid="pc2t1" />
+					<runepoem rune="ᚦ" poem="þ (þurs) er kvenna kvǫl ok kletta búi ok Varðrúnar ver." pcid="pc2" trid="pc2t1" />
+					<runepoem rune="ᚬ" poem="ᚬ (óss) er aldingautr ok Asgarðs jǫfurr ok Valhallar vísi." pcid="pc2" trid="pc2t1" />
+				</poems>
+		</translation>
+	</poemcollection>
+</runpoemcollection>

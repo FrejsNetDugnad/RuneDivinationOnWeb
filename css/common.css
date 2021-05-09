@@ -1,0 +1,63 @@
+﻿/*
+// ==============================================
+// Copyright Arne Höder, Midgårdskultur AB, 2021.
+// Copyright Asteríx Lindmark, 2021
+// Released under "Frejs Fria Licens 2019".
+// ==============================================
+*/
+
+body {
+    background-color: #17202A;
+}
+
+a:link {
+    color: #fff;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #fff;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #C3DECF;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:link {
+    color: #fff;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #fff;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #C3DECF;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.divination-method-info-center {
+    align-content:center
+}

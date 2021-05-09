@@ -1,0 +1,37 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<runpoemcollection>
+	<poemcollection id="pc4" >
+		<fornname>Þrídeilur, fornt íslenskt rúnakvæð</fornname>
+		<sourceuri>"https://asatru.is/fornt-runakvaedi"</sourceuri>
+		<language>Norrön</language>
+		<date>1500-talet</date>
+		<translation id="pc4t1" >
+			<name>Norrön avskrift</name>
+			<language>Norrön</language>
+			<author>Unknown</author>
+			<comment>From Islandic Ásatrúarfélagið homepage</comment>
+			<date>1500-talet</date>
+			<sourceuri>https://asatru.is/fornt-runakvaedi</sourceuri>
+				<poems>
+					<runepoem rune="ᚠ" poem="Fé er frænda róg og flæðar viti og grafseiðs gata. Aurum fylkir." pcid="pc4" trid="pc4t1" />
+					<runepoem rune="ᚢ" poem="Úr er skýja grátur og skara þverrir og hirðis hatur. Umbri vísi." pcid="pc4" trid="pc4t1" />
+					<runepoem rune="ᚦ" poem="Þurs er kvenna kvöl og kletta búi og varðrúnar ver. Saturnus þengill." pcid="pc4" trid="pc4t1" />
+					<runepoem rune="ᚬ" poem="Óss er aldingautur,og Asgarðs jöfur og Valhallar vísi. Júpíter oddviti." pcid="pc4" trid="pc4t1" />
+					<runepoem rune="ᚱ" poem="Reið er sitjandi sæla og snúðug ferð og jórs erfiði. Iter ræsir." pcid="pc4" trid="pc4t1" />
+					<runepoem rune="ᚲ" poem="Kaun er barna böl og bardaga för og holdfúa hús. Flagella konungur." pcid="pc4" trid="pc4t1" />
+
+					<runepoem rune="ᚺ" poem="Hagall er kaldakorn og krapa drífa og snáka sótt. Grando hildingur" pcid="pc4" trid="pc4t1" />
+					<runepoem rune="ᚾ" poem="Nauð er þýjar þrá og þungur kostur og vássamleg verk. Opera niflungur." pcid="pc4" trid="pc4t1" />
+					<runepoem rune="ᛁ" poem="Ís er árbörkur og unnar þak og feigra manna fár.Glacies jöfur" pcid="pc4" trid="pc4t1" />
+					<runepoem rune="ᛃ" poem="Ár er gumna góði og gott sumar og algróinn akur. Annus allvaldur." pcid="pc4" trid="pc4t1" />
+					<runepoem rune="ᛋ" poem="Sól er skýja skjöldur og skínandi röðull og ísa aldurtregi. Rota siklingur." pcid="pc4" trid="pc4t1" />
+
+					<runepoem rune="ᛏ" poem="Týr er einhendur áss og úlfs leifar og hófa hilmir. Mars tiggi." pcid="pc4" trid="pc4t1" />
+					<runepoem rune="ᛒ" poem="Bjarkan er laufgað lim og lítið tré og ungsamlegur viður. Abies buðlungur." pcid="pc4" trid="pc4t1" />
+					<runepoem rune="ᛉ" poem="Maður er manns gaman og moldar auki og skipa skreytir. Homo mildingur." pcid="pc4" trid="pc4t1" />
+					<runepoem rune="ᛚ" poem="Lögur er vellanda vatn og víður ketill og glömmunga grund. Lacus lofðungur." pcid="pc4" trid="pc4t1" />
+					<runepoem rune="ᛦ" poem="Ýr er bendur bogi og óbrotgjarnt járn og fífu fárbauti. Arcus ynglingur." pcid="pc4" trid="pc4t1" />
+				</poems>
+		</translation>
+	</poemcollection>
+</runpoemcollection>
