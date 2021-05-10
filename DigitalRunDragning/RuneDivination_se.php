@@ -83,7 +83,10 @@ body {background-color:#17202A; padding-bottom:60px;}
         <br>
         <a href="DivinationMethod_se.php" rel="internal"><strong>Vilka metoder används för att draga spå-runorna?</strong></a>
 		<br>
+		<a href="AboutProject_se.php" rel="internal"><strong>Om projektet som skapat sidorna.</strong></a>
+		<br>
         <a href="RuneDivination_en.php" rel="internal"><strong>English version of this page.</strong></a>
+		<br>
     </div>
 
 <br>

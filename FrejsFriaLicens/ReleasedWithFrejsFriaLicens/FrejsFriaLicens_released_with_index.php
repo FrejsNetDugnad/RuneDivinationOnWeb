@@ -36,7 +36,9 @@
         <br>
         <p>
             DigitalRunDragning php source code. &nbsp;&nbsp;
-            <a href="SpåRuneDragare_php_sourceCode_20210509SöA.zip" target="new"><strong>ZIP</strong></a>
+            <a href="SpåRuneDragare_php_sourceCode_20210509SöA.zip" target="new"><strong>ZIP</strong></a>   <br>
+            DigitalRunDragning projektet har ett repository hos GitHUb. 
+            <a href="https://github.com/FrejsNetDugnad/RuneDivinationOnWeb" rel="external" target="new">DigitalRunDragning repository hos GitHub - https://github.com/FrejsNetDugnad/RuneDivinationOnWeb </a><br>
         </p>
         <br>
     </div>
