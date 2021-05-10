@@ -1,3 +1,5 @@
+<?php namespace DigitalRunDragning;
+?>
 <!-- Footer -->
 <footer class="rune-container-footer rune-align-center rune-font" style="font-size:18px!important">
     <br />
